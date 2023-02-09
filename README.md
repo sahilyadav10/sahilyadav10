@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on finding an open source project to contribute to
+- 🌱 I’m currently learning TypeScript
+- 😄 Pronouns: He/Him
