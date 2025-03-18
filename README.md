@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on finding an open source project to contribute to
-- 🌱 I’m currently learning TypeScript
 - 😄 Pronouns: He/Him
